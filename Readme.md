@@ -42,9 +42,13 @@ print("Tiktok:",line_fitter.coef_)
 ```
 분석 코드이다. 간단한 분석 기법이다. df에 엑셀 파일이 들어가고 X에는 주기 Y에는 검색 횟수가 들어간다. 그래서 Y를 정규화 시킨다.
 
-
-![tiktok영어](https://user-images.githubusercontent.com/80466735/120789355-7da46e00-c56c-11eb-9629-954a548c6418.PNG)
-사진 1 한국 내에서 Tiktok 검색횟수
- ![tiktok한국어](https://user-images.githubusercontent.com/80466735/120789363-7ed59b00-c56c-11eb-975e-8fb79929adf4.PNG)
+<br>
+![tiktok영어](https://user-images.githubusercontent.com/80466735/120789355-7da46e00-c56c-11eb-9629-954a548c6418.PNG)<br>
+사진 1 한국 내에서 Tiktok 검색횟수<br>
+ ![tiktok한국어](https://user-images.githubusercontent.com/80466735/120789363-7ed59b00-c56c-11eb-975e-8fb79929adf4.PNG)<br>
 사진 2 한국 내에서 틱톡 검색횟수
-  
+전체적으로 기울기는 양의 값을 가지고있다. 하지만 기울기 값이 작아서 전과 같은 성장은 없을 것으로 보인다. 아마도 현재 상태 유지를 하게 될 수있다.
+<br>
+하지만 이 틱톡 사례로는 부족하다. 그래서 페이스북과 인스타그램 사례를 추가해서 근거를 강화하고자 한다.
+
+
