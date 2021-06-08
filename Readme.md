@@ -52,4 +52,13 @@ print("Tiktok:",line_fitter.coef_)
 <br>
 하지만 이 틱톡 사례로는 부족하다. 그래서 페이스북과 인스타그램 사례를 추가해서 근거를 강화하고자 한다.
 
+<h1>추가 분석</h1>
+위에까지 내용은 전에 한 Japan GDP Analysis와 다름이 없다. 이번에 1학년 1학기때 배우는 경영통계를 활용해 오직 기울기만 이용하는 게 아닌 더욱더 체계적으로 분석해 볼 것이다.<br>
+
+<h1>결론</h1>
+마케팅 관리 pdf다. 여기에 SWOT, 4P, SOLUTION, STP가 다 들어가 있다. 자료 공유를 허용해준 마케팅 관리 팀원에게 정말 감사하다.
+[Marketing Management Final Presentation.pdf](https://github.com/cjfghk5697/Marketing_analysis/files/6617453/Marketing.Management.Final.Presentation.pdf)<br>
+
+
+
 
