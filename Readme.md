@@ -9,6 +9,7 @@
 <h1>분석 방법</h1>
 http://www.reacademy.org 전국 부동삭학회에서 분석한 전세가격 예측, 검색 지수를 이용해서 사업의 상태를 분석하는 것은 필수로 여긴다. 2017년 한국에 론칭한 TikTok은 2019년 최고 다운로드 수를 달성했다. 하지만 현재 2021년까지 개인정보보안, 중국에 대한 불신이 증가하며 TikTok이라는 브랜드 가치가 떨어지기 시작했다. 그래서 구글 트렌드 검색지수를 이용해 대한민국 내에서 TikTok 발전 가능성을 예상해본다. <br>
 사용할 언어는 Python3 3.6.5버전으로 사이킷런을 이용한다. 그다음 정규화를 통해 -1~1사이의 값이 나오도록한다. 
+
 ```python
 def min_max_normalize(lst):
     normalized = []
@@ -44,9 +45,12 @@ print("Tiktok:",line_fitter.coef_)
 분석 코드이다. 간단한 분석 기법이다. df에 엑셀 파일이 들어가고 X에는 주기 Y에는 검색 횟수가 들어간다. 그래서 Y를 정규화 시킨다.
 
 <br>
+
 ![tiktok영어](https://user-images.githubusercontent.com/80466735/120789355-7da46e00-c56c-11eb-9629-954a548c6418.PNG)<br>
+
 사진 1 한국 내에서 Tiktok 검색횟수<br>
  ![tiktok한국어](https://user-images.githubusercontent.com/80466735/120789363-7ed59b00-c56c-11eb-975e-8fb79929adf4.PNG)<br>
+ 
 사진 2 한국 내에서 틱톡 검색횟수
 전체적으로 기울기는 양의 값을 가지고있다. 하지만 기울기 값이 작아서 전과 같은 성장은 없을 것으로 보인다. 아마도 현재 상태 유지를 하게 될 수있다.
 <br>
