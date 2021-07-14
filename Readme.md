@@ -66,3 +66,4 @@ print("Tiktok:",line_fitter.coef_)
 
 
 
+<h1>7/15 추가 설명 </h1>
